@@ -1,0 +1,9 @@
+Package: com.keaton.octopusbypass
+Name: OctopusBypass
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Octopus Oepay Jailbreak Bypass
+Maintainer: keaton
+Author: keaton
+Section: Tweaks
